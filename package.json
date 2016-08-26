@@ -1,5 +1,5 @@
 {
-  "name": "pnark-http",
+  "name": "pnark-fs",
   "version": "1.0.0",
   "description": "A plugin for pnark that shows you when the filesystem is being hit during a request to your server",
   "main": "index.js",
