@@ -175,6 +175,8 @@ function getChartData(report, reads) {
         series: [{
             name: 'Timing',
             data: reads.map(r => [r.start, r.finish])
-        }]
+        }],
+
+        height: Math.max(250, 100+15*reads.length)
     }
 }
