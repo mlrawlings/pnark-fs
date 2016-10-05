@@ -1,6 +1,6 @@
 {
   "name": "pnark-fs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for pnark that shows you when the filesystem is being hit during a request to your server",
   "main": "index.js",
   "scripts": {
